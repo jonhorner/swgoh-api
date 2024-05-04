@@ -1,2 +1,4 @@
+github.com/aws/aws-sdk-go v1.52.2 h1:l4g9wBXRBlvCtScvv4iLZCzLCtR7BFJcXOnOGQ20orw=
+github.com/aws/aws-sdk-go v1.52.2/go.mod h1:LF8svs817+Nz+DmiMQKTO3ubZ/6IaTpq3TjupRn3Eqk=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
 github.com/joho/godotenv v1.5.1/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
