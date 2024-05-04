@@ -3,8 +3,10 @@ package main
 import (
 	"log"
 	"os"
+	"encoding/json"
 	"swgoh-api/units"
 	"swgoh-api/guild"
+	"swgoh-api/db"
 
 	"github.com/joho/godotenv"
 )
@@ -35,8 +37,18 @@ func main() {
 		Url: "http://api.swgoh.gg/guild-profile/6Q1Rhhi0T26BnkByV1NmxQ",
 	}
 
-	//allycode := os.Getenv("ALLYCODE")
 	data := guild.GetMembers(c)
+	content, err := json.Marshal(data.Data.Members)
+	dataStore := db.StoreMemberData{
+		Table: "SwgohGuildData",
+		KeyName: "SwgohGuild",
+		KeyValue: "6Q1Rhhi0T26BnkByV1NmxQ",
+		ValueName: "MemberData",
+		Value: string(content),
+	}
+
+	db.StoreGuildMembers(dataStore)
+
 	getUnits := false
 	if getUnits == true {
 		c := units.Credentials{
@@ -44,8 +56,6 @@ func main() {
 			Password: os.Getenv("PASSWORD"),
 			Url: API_UNIT_URL,
 		}
-
-		//allycode := os.Getenv("ALLYCODE")
 		data := units.GetUnits(c)
 		log.Println(data.Data[0])
 	}
