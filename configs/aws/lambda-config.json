@@ -1,0 +1,14 @@
+{
+  "Architectures": ["arm64"],
+  "Code": {
+    "ZipFile": null
+  },
+  "Description": "WuBot - Calculate TB operation requirements",
+  "FunctionName": "WuBotTbOperations",
+  "Handler": "bootstrap",
+  "MemorySize": 128,
+  "PackageType": "Zip",
+  "Role": "arn:aws:iam::482557362835:role/lamba-aws-executor",
+  "Runtime": "provided.al2023",
+  "Timeout": 3
+}
