@@ -4,7 +4,6 @@ import (
 	"log"
 	"os"
 	"encoding/json"
-	"time"
 	"swgoh-api/units"
 	"swgoh-api/guild"
 	"swgoh-api/db"
@@ -21,7 +20,7 @@ const API_UNIT_URL = API_BASE_URL + "units/"
 // const API_CHARACTERS_URL = self::API_BASE_URL . '/api/characters/';
 
 func main() {
-	updateGuild, getRequiredUnits := false, true
+	updateGuild, getRequiredUnits := true, false
 
 	// 1) Get list of required units
 	//
@@ -38,12 +37,7 @@ func main() {
 			os.Exit(1)
 		}
 		log.Println("requiredUnits:");
-		//spew.Dump(requiredUnits.Value.Tb3Platoon1)
-
-		// count characters
-		for i, v := range requiredUnits.Value {
-
-		}
+		spew.Dump(requiredUnits.Value.Tb3Platoon1)
 	}
 
 	if updateGuild {
@@ -54,29 +48,43 @@ func main() {
 		}
 
 		data := guild.GetMembers(c)
-		content, err := json.Marshal(data.Data.Members)
+		// content, err := json.Marshal(data.Data.Members)
+		var content []members.GuildMemberData
+		//err := json.Unmarshal([]byte(data.Data), &content)
 		if err != nil {
 			log.Fatal("Error getting data: ", err)
 		}
-		dataStore := db.StoreMemberData{
+		dataStore := db.StoreMemberDataV2{
 			Table: "SwgohGuildData",
-			KeyName: "SwgohGuild",
-			KeyValue: "6Q1Rhhi0T26BnkByV1NmxQ",
-			ValueName: "MemberData",
-			Value: string(content),
+			PK: "6Q1Rhhi0T26BnkByV1NmxQ",
+			SK: "1",
+			Key: "MemberData",
+			Value: content,
 		}
 
 		db.StoreGuildMembers(dataStore)
+	}
 
-		getUnits := false
-		if getUnits == true {
-			c := units.Credentials{
-				Username: os.Getenv("USERNAME"),
-				Password: os.Getenv("PASSWORD"),
-				Url: API_UNIT_URL,
-			}
-			data := units.GetUnits(c)
-			log.Println(data.Data[0])
+	// Get users from DB
+	// guildMembers, err := db.GetGuildMembers()
+	// if err != nil {
+	// 	log.Fatal("Error getting guild members: ", err)
+	// }
+
+	// Loop over users and get each users roster
+	// spew.Dump(guildMembers.Value)
+	// for i, v := range guildData {
+
+	// }
+
+	getUnits := false
+	if getUnits {
+		c := units.Credentials{
+			Username: os.Getenv("USERNAME"),
+			Password: os.Getenv("PASSWORD"),
+			Url: API_UNIT_URL,
 		}
+		data := units.GetUnits(c)
+		log.Println(data.Data[0])
 	}
 }

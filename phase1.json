@@ -1,0 +1,1356 @@
+{
+  "phase": "1/1/1",
+  "timestamp": "2024-05-14T06:40:24.700Z",
+  "platoonAssignments": [
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "EMPERORPALPATINE",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "229313478",
+      "unitBaseId": "BT1",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "582633564",
+      "unitBaseId": "GRIEVOUS",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "582633564",
+      "unitBaseId": "MAUL",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "337279278",
+      "unitBaseId": "DARTHSION",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "373492872",
+      "unitBaseId": "EMPERORPALPATINE",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "324253114",
+      "unitBaseId": "GEONOSIANSTARFIGHTER3",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "229313478",
+      "unitBaseId": "GRIEVOUS",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "GAMORREANGUARD",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "471273223",
+      "unitBaseId": "MAUL",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "CAPITALCHIMAERA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "962964516",
+      "unitBaseId": "GAUNTLETSTARFIGHTER",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "582633564",
+      "unitBaseId": "IMPERIALPROBEDROID",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "527573453",
+      "unitBaseId": "IMPERIALSUPERCOMMANDO",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "582633564",
+      "unitBaseId": "UGNAUGHT",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "GRANDADMIRALTHRAWN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "JANGOFETT",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "WATTAMBOR",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "DARTHSIDIOUS",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "197853136",
+      "unitBaseId": "IG88",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "GRANDADMIRALTHRAWN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "197853136",
+      "unitBaseId": "DENGAR",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "936416183",
+      "unitBaseId": "WATTAMBOR",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "ASAJVENTRESS",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "197853136",
+      "unitBaseId": "UGNAUGHT",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "EMPERORPALPATINE",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "183623126",
+      "unitBaseId": "NUTEGUNRAY",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "197853136",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "324253114",
+      "unitBaseId": "HYENABOMBER",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "982961956",
+      "unitBaseId": "DROIDEKA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "962964516",
+      "unitBaseId": "CAPITALCHIMAERA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "527573453",
+      "unitBaseId": "VADER",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "371197348",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "TRIPLEZERO",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "TIEBOMBERIMPERIAL",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "237416861",
+      "unitBaseId": "CAPITALCHIMAERA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "491696678",
+      "unitBaseId": "NINTHSISTER",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "WATTAMBOR",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "939713373",
+      "unitBaseId": "SITHASSASSIN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "939713373",
+      "unitBaseId": "TIEFIGHTERPILOT",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "DARTHREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "HOUNDSTOOTH",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "527573453",
+      "unitBaseId": "TRIPLEZERO",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "527573453",
+      "unitBaseId": "BT1",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "DARTHREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "845655935",
+      "unitBaseId": "DARTHSION",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "351398561",
+      "unitBaseId": "GRIEVOUS",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "663191228",
+      "unitBaseId": "HOUNDSTOOTH",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "DARKTROOPER",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "GRANDADMIRALTHRAWN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "IG86SENTINELDROID",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "982961956",
+      "unitBaseId": "GRIEVOUS",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "132478445",
+      "unitBaseId": "EMBO",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "FOSITHTROOPER",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "722176712",
+      "unitBaseId": "DARTHREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "722176712",
+      "unitBaseId": "UGNAUGHT",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "229313478",
+      "unitBaseId": "TRIPLEZERO",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "351398561",
+      "unitBaseId": "B1BATTLEDROIDV2",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "CAPITALCHIMAERA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "527573453",
+      "unitBaseId": "CANDEROUSORDO",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "937196436",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "FIRSTORDERSPECIALFORCESPILOT",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "NIGHTSISTERINITIATE",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "937196436",
+      "unitBaseId": "EMPERORPALPATINE",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "714841565",
+      "unitBaseId": "TUSKENSHAMAN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "667742712",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "132478445",
+      "unitBaseId": "MARAJADE",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "714841565",
+      "unitBaseId": "TRIPLEZERO",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "CAPITALCHIMAERA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "151869943",
+      "unitBaseId": "IG88",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "766363285",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "BOBAFETT",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "582633564",
+      "unitBaseId": "DROIDEKA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "DARTHREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "373492872",
+      "unitBaseId": "CANDEROUSORDO",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "373492872",
+      "unitBaseId": "WATTAMBOR",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "TIEFIGHTERIMPERIAL",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "714841565",
+      "unitBaseId": "VADER",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "183623126",
+      "unitBaseId": "CAPITALCHIMAERA",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "139625589",
+      "unitBaseId": "DARTHSIDIOUS",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "592463367",
+      "unitBaseId": "IMPERIALPROBEDROID",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "491696678",
+      "unitBaseId": "FIFTHBROTHER",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "373492872",
+      "unitBaseId": "FIRSTORDEROFFICERMALE",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "154411829",
+      "unitBaseId": "DARTHREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "FIRSTORDERSPECIALFORCESPILOT",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "667742712",
+      "unitBaseId": "GRIEVOUS",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "FIRSTORDEROFFICERMALE",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "COUNTDOOKU",
+      "zoneId": "tb3_mixed_phase01_conflict02_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "373492872",
+      "unitBaseId": "BENSOLO",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "GRANDMASTERYODA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "COMMANDERLUKESKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "387456323",
+      "unitBaseId": "BADBATCHHUNTER",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "HANSOLO",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "DARTHMALGUS",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "C3POLEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "387456323",
+      "unitBaseId": "DARTHREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "JOLEEBINDO",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "491696678",
+      "unitBaseId": "POE",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "229313478",
+      "unitBaseId": "BOBAFETTSCION",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "COMMANDERLUKESKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "351398561",
+      "unitBaseId": "THEMANDALORIANBESKARARMOR",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "714841565",
+      "unitBaseId": "BT1",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "766363285",
+      "unitBaseId": "GEONOSIANBROODALPHA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "TIEINTERCEPTOR",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "PADMEAMIDALA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "GRANDMASTERYODA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "GHOST",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "854234958",
+      "unitBaseId": "WATTAMBOR",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "TIEINTERCEPTOR",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "COMMANDERLUKESKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "237416861",
+      "unitBaseId": "DARTHREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "939713373",
+      "unitBaseId": "PAPLOO",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "BOSSK",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "BOBAFETTSCION",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "CHEWBACCALEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "373492872",
+      "unitBaseId": "REYJEDITRAINING",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "C3POCHEWBACCA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "ARC170CLONESERGEANT",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "788743573",
+      "unitBaseId": "BENSOLO",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "183623126",
+      "unitBaseId": "DARTHREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "183623126",
+      "unitBaseId": "HOTHLEIA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "VADER",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "151869943",
+      "unitBaseId": "KIADIMUNDI",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "154411829",
+      "unitBaseId": "DARTHMALGUS",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "BB8",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "337279278",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "592463367",
+      "unitBaseId": "COMMANDSHUTTLE",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "982961956",
+      "unitBaseId": "CLONESERGEANTPHASEI",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "663191228",
+      "unitBaseId": "COMMANDERAHSOKA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "295243696",
+      "unitBaseId": "C3POLEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "688196188",
+      "unitBaseId": "DARTHTRAYA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "BLADEOFDORIN",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "T3_M4",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "RAZORCREST",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "351398561",
+      "unitBaseId": "CHEWBACCALEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "667742712",
+      "unitBaseId": "GENERALKENOBI",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "592463367",
+      "unitBaseId": "TIESILENCER",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "939713373",
+      "unitBaseId": "LOGRAY",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "COMMANDERAHSOKA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "CAPITALCHIMAERA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "688196188",
+      "unitBaseId": "WATTAMBOR",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "CAPITALMALEVOLENCE",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "324253114",
+      "unitBaseId": "MAUL",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "371197348",
+      "unitBaseId": "BOBAFETTSCION",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "R2D2_LEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "295243696",
+      "unitBaseId": "HANSOLO",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "722176712",
+      "unitBaseId": "GEONOSIANBROODALPHA",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "714841565",
+      "unitBaseId": "COLONELSTARCK",
+      "zoneId": "tb3_mixed_phase01_conflict03_recon01",
+      "platoonDefinitionId": "tb3-platoon-5"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "THEMANDALORIANBESKARARMOR",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "REYJEDITRAINING",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "GREEFKARGA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "HERMITYODA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "154411829",
+      "unitBaseId": "JEDIKNIGHTLUKE",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "538259387",
+      "unitBaseId": "BB8",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "COMMANDERLUKESKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "324253114",
+      "unitBaseId": "CC2224",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "845655935",
+      "unitBaseId": "BARRISSOFFEE",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "183623126",
+      "unitBaseId": "R2D2_LEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "JEDIKNIGHTREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "L3_37",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "PHANTOM2",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-1"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "788743573",
+      "unitBaseId": "BB8",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "CHEWBACCALEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "371197348",
+      "unitBaseId": "XWINGRESISTANCE",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "HERMITYODA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "641732192",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "373492872",
+      "unitBaseId": "BB8",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "686414435",
+      "unitBaseId": "THEMANDALORIANBESKARARMOR",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "982961956",
+      "unitBaseId": "JYNERSO",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "295243696",
+      "unitBaseId": "SANASTARROS",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "151869943",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "151869943",
+      "unitBaseId": "THEMANDALORIANBESKARARMOR",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "641732192",
+      "unitBaseId": "CHEWBACCALEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "SANASTARROS",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "CAPITALMONCALAMARICRUISER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-2"
+    },
+    {
+      "allyCode": "663191228",
+      "unitBaseId": "JEDIKNIGHTLUKE",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "491696678",
+      "unitBaseId": "REYJEDITRAINING",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "183623126",
+      "unitBaseId": "GRANDMASTERYODA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "C3POCHEWBACCA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "663191228",
+      "unitBaseId": "HERMITYODA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "132478445",
+      "unitBaseId": "JEDIKNIGHTLUKE",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "491696678",
+      "unitBaseId": "R2D2_LEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "491696678",
+      "unitBaseId": "BB8",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "229313478",
+      "unitBaseId": "UMBARANSTARFIGHTER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "854234958",
+      "unitBaseId": "FULCRUMAHSOKA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "641732192",
+      "unitBaseId": "JEDIKNIGHTLUKE",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "PADMEAMIDALA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "C3POLEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "854234958",
+      "unitBaseId": "SANASTARROS",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "845655935",
+      "unitBaseId": "ARMORER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-3"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "JEDIKNIGHTLUKE",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "JEDIKNIGHTREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "962964516",
+      "unitBaseId": "GENERALKENOBI",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "252281785",
+      "unitBaseId": "LOBOT",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "641732192",
+      "unitBaseId": "HANSOLO",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "THEMANDALORIANBESKARARMOR",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "197853136",
+      "unitBaseId": "LOGRAY",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "BLADEOFDORIN",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "VISASMARR",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "183623126",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "286794882",
+      "unitBaseId": "C3POLEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "HANSOLO",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "HONDO",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "367437612",
+      "unitBaseId": "JEDISTARFIGHTERANAKIN",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-4"
+    },
+    {
+      "allyCode": "667742712",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "C3POLEGENDARY",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "527573453",
+      "unitBaseId": "KIADIMUNDI",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "982961956",
+      "unitBaseId": "SABINEWRENS3",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "HERMITYODA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "936416183",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "667742712",
+      "unitBaseId": "GRANDMASTERYODA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "911615874",
+      "unitBaseId": "HERMITYODA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "711443896",
+      "unitBaseId": "AMILYNHOLDO",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "352888587",
+      "unitBaseId": "ZAALBAR",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "154411829",
+      "unitBaseId": "GENERALSKYWALKER",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "JEDIKNIGHTREVAN",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "395935939",
+      "unitBaseId": "HOTHLEIA",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "796798177",
+      "unitBaseId": "SANASTARROS",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    },
+    {
+      "allyCode": "582633564",
+      "unitBaseId": "RAVENSCLAW",
+      "zoneId": "tb3_mixed_phase01_conflict01_recon01",
+      "platoonDefinitionId": "tb3-platoon-6"
+    }
+  ]
+}

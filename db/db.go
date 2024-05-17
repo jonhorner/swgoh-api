@@ -2,7 +2,6 @@ package db
 
 import (
 	"log"
-	"time"
 	"os"
 	"fmt"
 	"errors"
@@ -23,10 +22,25 @@ type StoreMemberData struct {
 	Value string
 }
 
+type StoreMemberDataV2 struct {
+	Table string
+	PK string
+	SK string
+	Key string
+	Value interface{}
+}
+
 type GuildItem struct {
 	SwgohGuild string `json:"swgohGuild,omitempty" dynamodbav:",omitempty"`
 	MemberData string `json:"memberData,omitempty" dynamodbav:",omitempty"`
 	UpdateTime string `json:"updateTime,omitempty" dynamodbav:",omitempty"`
+}
+
+type GuildItemv2 struct {
+	PK string `json:"SK,omitempty" dynamodbav:",omitempty"`
+	SK string `json:"PK,omitempty" dynamodbav:",omitempty"`
+	Key string `json:"key,omitempty" dynamodbav:",omitempty"`
+	Value interface{} `json:"value,omitempty" dynamodbav:",omitempty"`
 }
 
 // Struct for DB item which stores required characters
@@ -69,23 +83,56 @@ type OperationRequirements struct {
 	UnitBaseID15 string `json:"unitBaseId15"`
 }
 
-func StoreGuildMembers(data StoreMemberData) {
+func StoreGuildMembers(data StoreMemberDataV2) {
 	storeItem(data)
 }
 
-func storeItem(data StoreMemberData) {
+func GetGuildMembers() (GuildItemv2, error) {
+	sesssion := session.Must(session.NewSessionWithOptions(session.Options{
+		SharedConfigState: session.SharedConfigEnable,
+	}))
+
+	db := dynamodb.New(sesssion)
+
+	tableName := "SwgohGuildData"
+	key := "1"
+	guildId := os.Getenv("GUILD_ID")
+	result, err := db.GetItem(&dynamodb.GetItemInput{
+		TableName: aws.String(tableName),
+		Key: map[string]*dynamodb.AttributeValue{
+		    "PK": {S: aws.String(guildId)},
+		    "SK": {S: aws.String(key)},
+		  },
+	})
+
+	if err != nil {
+		log.Fatalf("Got error calling GetGuildMembers: %s", err)
+	}
+
+	if result.Item == nil {
+		msg := "Could not find guild data"
+		return GuildItemv2{}, errors.New(msg)
+	}
+
+	item := GuildItemv2{}
+	err = dynamodbattribute.UnmarshalMap(result.Item, &item)
+	if err != nil {
+		panic(fmt.Sprintf("Failed to unmarshal Record, %v", err))
+	}
+	return item, nil
+}
+
+func storeItem(data StoreMemberDataV2) {
 	sesssion := session.Must(session.NewSessionWithOptions(session.Options{
 		SharedConfigState: session.SharedConfigEnable,
 	}))
 
 	svc := dynamodb.New(sesssion)
-	now := time.Now()      // current local time
-	ts := now.Unix()
-
-	item := GuildItem{
-		SwgohGuild:  data.KeyValue,
-		MemberData: data.Value,
-		UpdateTime: string(ts),
+	item := GuildItemv2{
+		PK:  data.PK,
+		SK: data.SK,
+		Key: data.Key,
+		Value: data.Value,
 	}
 
 	av, err := dynamodbattribute.MarshalMap(item)

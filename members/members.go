@@ -1,5 +1,17 @@
 package members
 
+import (
+	"net/http"
+	"log"
+	"io"
+	"encoding/json"
+)
+
+type Credentials struct {
+	Username string
+	Password string
+	Url string
+}
 
 type Unit struct {
 	BaseID    string `json:"base_id"`
@@ -15,6 +27,40 @@ type MemberData struct {
 type Roster struct {
 	Units []Unit `json:"units"`
 	Data MemberData `json:"data"`
+}
+
+type GuildMembers struct {
+	Members []struct {
+		GalacticPower       int    `json:"galactic_power"`
+		GuildJoinTime       string `json:"guild_join_time"`
+		LifetimeSeasonScore int    `json:"lifetime_season_score"`
+		MemberLevel         int    `json:"member_level"`
+		AllyCode            int    `json:"ally_code"`
+		PlayerLevel         int    `json:"player_level"`
+		PlayerName          string `json:"player_name"`
+		LeagueID            string `json:"league_id"`
+		LeagueName          string `json:"league_name"`
+		LeagueFrameImage    string `json:"league_frame_image"`
+		PortraitImage       string `json:"portrait_image"`
+		Title               string `json:"title"`
+		SquadPower          int    `json:"squad_power"`
+	} `json:"members"`
+}
+
+type GuildMemberData struct {
+	GalacticPower       int    `json:"galactic_power"`
+	GuildJoinTime       string `json:"guild_join_time"`
+	LifetimeSeasonScore int    `json:"lifetime_season_score"`
+	MemberLevel         int    `json:"member_level"`
+	AllyCode            int    `json:"ally_code"`
+	PlayerLevel         int    `json:"player_level"`
+	PlayerName          string `json:"player_name"`
+	LeagueID            string `json:"league_id"`
+	LeagueName          string `json:"league_name"`
+	LeagueFrameImage    string `json:"league_frame_image"`
+	PortraitImage       string `json:"portrait_image"`
+	Title               string `json:"title"`
+	SquadPower          int    `json:"squad_power"`
 }
 
 func GetRoster(c Credentials) Roster {
